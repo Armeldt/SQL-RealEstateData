@@ -6,9 +6,7 @@ In this project, I was responsible for modifying and enhancing a real estate and
 
 My role involved updating the relational database schema and integrating new data from open sources such as DVF (real estate transaction values), INSEE population data, and geographic information. I refined the database structure to comply with 3NF standards and implemented the solution using MySQL, generating detailed reports based on SQL queries.
 
-Key deliverables included a comprehensive data dictionary, a normalized database schema, and a PDF report containing the SQL queries and results.
-
-You'll fin below the list of data insight required :
+Throughout the project, I developed and executed a series of SQL queries to extract and analyze key metrics from the database, addressing the following objectives:
 
 - [x] Total number of apartments sold in the first half of 2020.
 - [x] Number of apartment sales by region for the first half of 2020.
@@ -21,3 +19,14 @@ You'll fin below the list of data insight required :
 - [x] List of cities with at least 50 sales in the first quarter.
 - [x] Percentage difference in price per square meter between a 2-room apartment and a 3-room apartment.
 - [x] Average property values for the top 3 cities in departments 6, 13, 33, 59, and 69.
+
+In the Project folder you'll find : 
+
+- Key deliverables including a comprehensive data dictionary, a normalized database schema, and a PDF report containing the SQL queries and results.
+
+In the Ressource folder you'll find : 
+
+- The SQL queries file
+- The database SQL dump
+- The raw data used
+
