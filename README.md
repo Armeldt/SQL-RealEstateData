@@ -1,6 +1,6 @@
 # DATAImmo Project
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/16062363168182.png?raw=true)
+![alt text](https://github.com/Armeldt/SQL-RealEstateData/blob/main/Ressources/logo.png?raw=true)
 
 In this project, I was responsible for modifying and enhancing a real estate and land transaction database in France. The objective was to collect and analyze market data to help regional agencies better support their clients.
 
